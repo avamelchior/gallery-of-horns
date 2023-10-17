@@ -1,4 +1,5 @@
 import React from "react";
+import HornedBeast from "./HornedBeast";
 
 class Gallery extends React.Component {
   render() {
