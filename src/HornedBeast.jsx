@@ -16,7 +16,7 @@ class HornedBeast extends React.Component {
         };
 
         render() {
-            console.log(this.props);
+            console.log(this.props.imageUrl);
             return (
                 <>
                     <h2>{this.props.title}</h2>
